@@ -1,2 +1,3 @@
-#!binbash
-cp -un *.htm../
+#!/bin/bash
+cp -un *.html../
+
