@@ -1,2 +1,2 @@
 #!binbash
-cp -u .htm ..
+#cp -u .htm ..
